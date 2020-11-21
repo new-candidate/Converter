@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert_image">Convert Image</string>
+    <string name="access_required">Нужен доступ</string>
+    <string name="grant_access">Предоставьте доступ</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="convertation_in_progress">Идёт конвератция</string>
+    <string name="convertation_success">Конвертаций прошла успешно</string>
+    <string name="convertation_canceled">Конвертация отменена</string>
+    <string name="convertation_failed">Конвертация не удалась</string>
+</resources>
